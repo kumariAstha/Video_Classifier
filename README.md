@@ -7,4 +7,4 @@ Second Stage: Extracting the useful part from the video clip of duration(5-10 se
 ##
 Third Stage: Building the classifier by incorporating different 2D and 3D architecture.
 ##
-Final Stage: Fine-Tuning with Pre-trained Models and finalize the best model.
+Final Stage: Testing with a new video data
